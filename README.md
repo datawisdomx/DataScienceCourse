@@ -40,3 +40,4 @@ Chapter 13 – Building, Deploying on AWS Sagemaker - Cloud Machine Learning pla
 Chapter 14 – End 2 End Project 1 – Building a RoboAdvisor 
 References, Data Sources, About Us, Contact 
 
+Author: Nitin Singhal
