@@ -12,3 +12,5 @@ End-2-End project
 
 All python code and data for examples is in the below github location:
 https://github.com/datawisdomx/DataScienceCourse 
+
+Parts 2,3,4 of the course will cover Deep learning & NLP, Data engineering and more advanced machine learning algorithms and techniques – to be published
