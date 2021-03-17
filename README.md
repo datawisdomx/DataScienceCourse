@@ -22,21 +22,21 @@ Sample code and data are at https://github.com/datawisdomx/DataScienceCourse
 
 Table of Contents
 
-Data Science – Why, What, How
-Guidelines and Expectation
-Chapter 1 – Programming – Python
-Chapter 2 – Data Analytics – Pandas 
-Chapter 3 – Statistics, Exponentials, Logarithm
-Chapter 4 – Probability
-Chapter 5 – Data Sampling
-Chapter 6 – Data Science Process – Problem, Wrangling, Algorithm Selection, Model Building , Visualization, Deployment
-Chapter 7 – Data Wrangling
-Chapter 8 – Supervised Learning Algorithms – Regression
-Chapter 9 – Supervised Learning Algorithms - Classification
-Chapter 10 – Unsupervised Learning Algorithms - Clustering
-Chapter 11 – Model Persistence and Deployment
-Chapter 12 – Deploying on AWS Cloud – S3 using Boto3, Elastic Beanstalk
-Chapter 13 – Building, Deploying on AWS Sagemaker - Cloud Machine Learning platform
-Chapter 14 – End 2 End Project 1 – Building a RoboAdvisor
-References, Data Sources, About Us, Contact
+Data Science – Why, What, How 
+Guidelines and Expectation 
+Chapter 1 – Programming – Python 
+Chapter 2 – Data Analytics – Pandas  
+Chapter 3 – Statistics, Exponentials, Logarithm 
+Chapter 4 – Probability 
+Chapter 5 – Data Sampling 
+Chapter 6 – Data Science Process – Problem, Wrangling, Algorithm Selection, Model Building , Visualization, Deployment 
+Chapter 7 – Data Wrangling 
+Chapter 8 – Supervised Learning Algorithms – Regression 
+Chapter 9 – Supervised Learning Algorithms - Classification 
+Chapter 10 – Unsupervised Learning Algorithms - Clustering 
+Chapter 11 – Model Persistence and Deployment 
+Chapter 12 – Deploying on AWS Cloud – S3 using Boto3, Elastic Beanstalk 
+Chapter 13 – Building, Deploying on AWS Sagemaker - Cloud Machine Learning platform 
+Chapter 14 – End 2 End Project 1 – Building a RoboAdvisor 
+References, Data Sources, About Us, Contact 
 
