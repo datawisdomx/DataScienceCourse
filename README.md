@@ -18,7 +18,7 @@ Parts 2,3,4 of the course are to be published
 
 Throughout the course relevant details, python code examples and online resources are provided to support the learning
 More details are available at https://datawisdomx.com/ 
-https://github.com/datawisdomx/DataScienceCourse 
+Sample code and data are at https://github.com/datawisdomx/DataScienceCourse 
 
 Table of Contents
 
