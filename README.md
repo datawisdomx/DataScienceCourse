@@ -14,7 +14,7 @@ Part 2 will cover Intermediate machine learning techniques – Deep Learning and
 Part 3 will cover Data Engineering – Databases and Big Data tools (Hadoop, Spark)
 Part 4 will cover Advanced machine learning techniques (Reinforcement Learning, Computer Vision), Time Series Analysis and Recommender Systems
 
-Parts 2,3,4 of the course will cover Deep learning & NLP, Data engineering and more advanced machine learning algorithms and techniques – to be published
+Parts 2,3,4 of the course are to be published
 
 Throughout the course relevant details, python code examples and online resources are provided to support the learning
 More details are available at https://datawisdomx.com/ 
