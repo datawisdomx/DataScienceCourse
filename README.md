@@ -2,13 +2,13 @@
 Data Science – End 2 End Beginners Course
 Part 1 - Machine Learning and Data Analytics
 
-The Objective of this course is to teach students how to do an End-2-End data science project
+The Objective of this course is to teach students how to do an End-2-End data science project: 
 
-From Problem definition, data sourcing, wrangling and modelling
+  From Problem definition, data sourcing, wrangling and modelling.
 
-To analyzing, visualizing and deploying & maintaining the models
+  To analyzing, visualizing and deploying & maintaining the models.
 
-This course is for anyone interested in learning data science – analyst, programmer, non-technical professional, student, etc
+This course is for anyone interested in learning data science – analyst, programmer, non-technical professional, student, etc.
 
 The End 2 End Data science course will be divided into 4 parts: 
 
@@ -20,11 +20,11 @@ Part 3 will cover Data Engineering – Databases and Big Data tools (Hadoop, Spa
 
 Part 4 will cover Advanced machine learning techniques (Reinforcement Learning, Computer Vision), Time Series Analysis and Recommender Systems
 
-Parts 2,3,4 of the course are to be published
+Parts 2,3,4 of the course are to be published.
 
-Throughout the course relevant details, python code examples and online resources are provided to support the learning
-More details are available at https://datawisdomx.com/ 
-Sample code and data are at https://github.com/datawisdomx/DataScienceCourse 
+Throughout the course relevant details, python code examples and online resources are provided to support the learning.
+  More details are available at https://datawisdomx.com/ 
+  Sample code and data are at https://github.com/datawisdomx/DataScienceCourse 
 
 Table of Contents
 
