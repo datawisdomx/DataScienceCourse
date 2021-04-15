@@ -16,9 +16,9 @@ Part 1 is a Beginner’s course that covers Machine Learning and Data Analytics
 
 Part 2 will cover Intermediate machine learning techniques – Deep Learning and NLP (Natural Language Processing)
 
-Part 3 will cover Data Engineering – Databases and Big Data tools (Hadoop, Spark)
+Part 3 will cover Advanced machine learning techniques - Reinforcement Learning and Computer Vision
 
-Part 4 will cover Advanced machine learning techniques (Reinforcement Learning, Computer Vision), Time Series Analysis and Recommender Systems
+Part 4 will cover Data Engineering – Databases and Big Data tools (Hadoop, Spark)
 
 Parts 2,3,4 of the course are to be published.
 
