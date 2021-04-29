@@ -15,8 +15,8 @@ The End 2 End Data science course will be divided into 4 parts
 Parts 2,3,4 of the course will be published later
 
 Throughout the course detailed lectures covering the maths/logic of the algorithms, python code examples and online resources are provided to support the learning process
-More details are available on our website - https://datawisdomx.com/
-Course material including python code and data is available at - https://github.com/datawisdomx/DataScienceCourse
-It has python code examples for each algorithm and a full model building and deployment example
+ - More details are available on our website - https://datawisdomx.com/
+ - Course material including python code and data is available at - https://github.com/datawisdomx/DataScienceCourse
+ - It has python code examples for each algorithm and a full model building and deployment example
 
 Repository for the Data Science course. Each part of the course will have a separate folder with sub folders containing lectures, code and other files.
